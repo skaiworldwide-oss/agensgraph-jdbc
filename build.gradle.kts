@@ -32,7 +32,7 @@ group = "net.bitnine"
 version = "1.4.3"
 description = "Agensgraph JDBC"
 java.sourceCompatibility = JavaVersion.VERSION_1_8
-val githubUrl = "github.com/bitnine-oss/agensgraph-jdbc"
+val githubUrl = "github.com/skaiworldwide-oss/agensgraph-jdbc"
 
 java {
     withSourcesJar()
