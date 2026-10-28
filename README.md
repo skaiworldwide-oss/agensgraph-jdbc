@@ -10,7 +10,7 @@ This section shows how to use AgensGraph JDBC Driver through examples.
 
 ### Get the Driver ###
 
-You can download the precompiled driver(jar) from [bitnine.net/downloads](http://bitnine.net/downloads) or use maven as follows.
+You can download the precompiled driver(jar) from [Releases](https://github.com/skaiworldwide-oss/agensgraph-jdbc/releases) or use maven as follows.
 
 #### Gradle ####
 
